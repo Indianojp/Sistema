@@ -1,1 +1,1 @@
-Sistema de gerenciamento de estoque e vendas
+# Sistema de gerenciamento de estoque e vendas
